@@ -22,3 +22,7 @@ result2 = sum_two_min(numbers2)
 
 print("Сума двох мінімальних чисел:", result)
 print("Сума двох мінімальних чисел:", result2)
+
+#one
+#more
+#line
